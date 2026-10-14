@@ -43,15 +43,15 @@ This is the central result of the project: **likelihood misspecification can pro
 
 ## Background study
 
-![Lifetime fit comparison](figures/background_tau_comparison.jpg)
+![Lifetime fit comparison](figures/background_tau_comparison.png)
 
-![Modulation-parameter fit comparison](figures/background_V_comparison.jpg)
+![Modulation-parameter fit comparison](figures/background_V_comparison.png)
 
 ## Baseline pseudoexperiments
 
 A pure-signal ensemble is used first to examine the fitted-parameter distributions before background is introduced.
 
-![Generated signal sample](figures/generated_signal_sample.jpg)
+![Generated signal sample](figures/generated_signal_sample.png)
 
 The saved baseline ensemble shows good closure for `tau` and `Delta m`, while `V` shows a visible positive offset. I retain that feature in the public version rather than presenting the baseline as an ideal closure test.
 
@@ -74,9 +74,9 @@ The saved baseline ensemble shows good closure for `tau` and `Delta m`, while `V
 ├── notebooks/
 │   └── decay_parameter_pseudoexperiments.ipynb
 ├── figures/
-│   ├── generated_signal_sample.jpg
-│   ├── background_tau_comparison.jpg
-│   └── background_V_comparison.jpg
+│   ├── generated_signal_sample.png
+│   ├── background_tau_comparison.png
+│   └── background_V_comparison.png
 └── results/
     └── background_fit_summary.csv
 ```
