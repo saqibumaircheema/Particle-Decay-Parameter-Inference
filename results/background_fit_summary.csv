@@ -1,0 +1,19 @@
+background_percent,fit_model,parameter,true_value,mean_fit,bias,ensemble_std
+1,Signal only,tau,1.5e-06,1.49e-06,-1.09e-08,1.47e-08
+1,Signal + background,tau,1.5e-06,1.5e-06,1.48e-09,1.81e-08
+1,Signal only,delta_m,20000000.0,20000000.0,4750.0,62200.0
+1,Signal + background,delta_m,20000000.0,20000000.0,5780.0,64200.0
+1,Signal only,V,0.1,0.0988,-0.00121,0.0145
+1,Signal + background,V,0.1,0.101,0.00139,0.0147
+10,Signal only,tau,1.5e-06,1.37e-06,-1.3e-07,1.33e-08
+10,Signal + background,tau,1.5e-06,1.5e-06,1.63e-09,1.85e-08
+10,Signal only,delta_m,20000000.0,20000000.0,3380.0,59000.0
+10,Signal + background,delta_m,20000000.0,20000000.0,-5250.0,59000.0
+10,Signal only,V,0.1,0.0781,-0.0219,0.0146
+10,Signal + background,V,0.1,0.105,0.00527,0.0162
+20,Signal only,tau,1.5e-06,1.24e-06,-2.57e-07,1.86e-08
+20,Signal + background,tau,1.5e-06,1.5e-06,-1.41e-10,2.02e-08
+20,Signal only,delta_m,20000000.0,19900000.0,-95500.0,211000.0
+20,Signal + background,delta_m,20000000.0,20000000.0,-4910.0,63800.0
+20,Signal only,V,0.1,0.0545,-0.0455,0.0494
+20,Signal + background,V,0.1,0.101,0.00131,0.0173
