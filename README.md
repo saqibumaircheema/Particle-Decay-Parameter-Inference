@@ -96,3 +96,9 @@ pip install -r requirements.txt
 ## Tools
 
 Python · NumPy · SciPy · pandas · Matplotlib · iminuit
+
+---
+
+## Research portfolio
+
+This repository is part of my physics research and scientific-computing portfolio. See my [GitHub profile](https://github.com/saqibumaircheema) for related work in detector instrumentation, particle-physics analysis, simulation, statistical inference and scientific machine learning.
